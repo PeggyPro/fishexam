@@ -103,7 +103,7 @@ docker build -t fishexam .
 6、运行容器
 
 ```shell
-docker run -d -p 8888:8888 --name fishexam-8888 fishexam
+docker run -d -p 8888:8888 --name fishexam8888 fishexam
 ```
 
 ## 最终效果
